@@ -1,6 +1,7 @@
 # OOP-models
 
 this repo cointains some object oriented designs program in JAVA 
+it was an exercise for AP course in Sharif university of technology in 2021
 
 the models are:
 1.confectionery:
